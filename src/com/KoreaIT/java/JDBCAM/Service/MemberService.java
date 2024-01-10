@@ -1,4 +1,4 @@
-package com.KoreaIT.java.JDBCAM.Service;
+package com.KoreaIT.java.JDBCAM.service;
 
 public class MemberService {
 
